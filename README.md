@@ -33,7 +33,7 @@ Sarswati Backend is a Node.js application built with Express and MongoDB, design
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/roy7077/Sarswati.git
+git clone https://github.com/Harshdeep-Yadav/Sarswati.git
 
 2. Install dependencies:
 - npm install
@@ -55,5 +55,5 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![Sarswati-pro](https://github.com/roy7077/Sarswati/assets/107414907/6a7401d3-2420-48e2-972f-9fbbda7dd5e7)
-"# Sarswati" 
+![Sarswati-pro](https://github.com/Harshdeep-Yadav/Sarswati/assets/107414907/6a7401d3-2420-48e2-972f-9fbbda7dd5e7)
+"# Sarswati"
