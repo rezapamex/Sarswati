@@ -45,15 +45,15 @@ git clone https://github.com/Harshdeep-Yadav/Sarswati.git
 4. Start the server:
 - node index.js or nodemon index.js
 
-5. Access the API endpoints at https://sarswati-1.onrender.com/
+<!-- 5. Access the API endpoints at https://sarswati-1.onrender.com/ -->
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
+<!-- ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-![Sarswati-pro](https://github.com/Harshdeep-Yadav/Sarswati/assets/107414907/6a7401d3-2420-48e2-972f-9fbbda7dd5e7)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
+<!-- 
+![Sarswati-pro](https://github.com/Harshdeep-Yadav/Sarswati/assets/107414907/6a7401d3-2420-48e2-972f-9fbbda7dd5e7) -->
 "# Sarswati"
